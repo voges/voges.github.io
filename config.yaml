@@ -1,7 +1,7 @@
 baseURL: "https://voges.github.io/"
 languageCode: "en-us"
 title: "Dr. Jan Voges"
-theme: "jv-min"
+theme: "vanilla"
 
 params:
   footer: "&copy; {Year} Jan Voges | [Legal Notice](/legal-notice/)"
