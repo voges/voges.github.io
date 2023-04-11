@@ -1,3 +1,3 @@
 # voges.github.io
 
-Homepage of Jan Voges
+This site is live at https://voges.github.io/.
