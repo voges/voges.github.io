@@ -1,0 +1,4 @@
+<footer>
+    <hr/>
+    {{ replace .Site.Params.footer "{Year}" now.Year | markdownify }}
+</footer>

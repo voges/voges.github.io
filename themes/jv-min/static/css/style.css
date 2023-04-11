@@ -1,0 +1,41 @@
+body {
+  line-height: 1.5;
+  margin: auto;
+  max-width: 800px;
+  padding: 1em;
+}
+
+hr {
+  border-style: dashed;
+  color: #dddddd;
+}
+
+ul#menu {
+  padding: 0;
+  text-align: center;
+}
+
+ul#menu li {
+  display: inline-block;
+  margin: 0 5px;
+}
+
+ul#menu li a {
+  background: #eeeeee;
+  border-radius: 5px;
+  padding: 5px 9px;
+  text-decoration: none;
+}
+
+footer {
+  padding: 0;
+  text-align: center;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+div#content-home {
+  text-align: center;
+}
