@@ -1,6 +1,8 @@
 ---
-title: "Legal Notice / Impressum"
+title: "Legal Notice"
 ---
+
+# Legal Notice / Impressum
 
 ## Angaben gemäß § 5 TMG
 
@@ -8,13 +10,11 @@ Jan Voges\
 Beekestr. 84b\
 30459 Hannover
 
+_(auch verantwortlich für den Inhalt nach § 55 Abs. 2 RStV)_
+
+## Kontakt
 Telefon: +49 151 61403729\
 E-Mail: janvoges@me.com
-
-**Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:**\
-Jan Voges\
-Beekestr. 84b\
-30459 Hannover
 
 ## Haftungsausschluss
 
