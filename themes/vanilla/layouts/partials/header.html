@@ -1,8 +1,15 @@
-<nav>
-    <ul id="menu">
-        {{ range .Site.Menus.main }}
-        <li><a href="{{ .PageRef }}">{{ .Name }}</a></li>
-        {{ end }}
-    </ul>
-    <hr/>
-</nav>
+<header>
+    <nav>
+        <ul>
+            {{ $currentTitle := .Title }}
+            {{ range .Site.Menus.main }}
+                <li>
+                    <a class="{{ if eq $currentTitle .Name }}active{{ end }}" href="{{ .PageRef }}">
+                        {{ .Name }}
+                    </a>
+                </li>
+            {{ end }}
+        </ul>
+        <hr/>
+    </nav>
+</header>
