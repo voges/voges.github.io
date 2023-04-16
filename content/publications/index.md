@@ -2,6 +2,8 @@
 title: "Publications"
 ---
 
+_This listing of my publications is currently being completed._
+
 # Books
 
 J. Voges\
