@@ -10,3 +10,5 @@ In 2022, he received his Dr.-Ing. degree from Leibniz University Hannover for hi
 Since 2022, he is leader of the Genomic Data Science group at the Institute of Information Processing, Leibniz University Hannover.
 His research focuses on information theory, data compression, machine learning and bioinformatics.
 He has a special interest in international standardization, proposal writing, project management, IP generation and software engineering.
+
+You can also download my full [Curriculum Vitae](/download/CV_Jan_Voges.zip) (password available on request).
