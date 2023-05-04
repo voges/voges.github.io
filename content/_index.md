@@ -2,6 +2,8 @@
 title: "Home"
 ---
 
+![Profile Picture Jan Voges](/images/profile.png)
+
 # Dr. Jan Voges
 
 Passionate R&D expert with a special focus on information theory, data compression, machine learning and bioinformatics.
