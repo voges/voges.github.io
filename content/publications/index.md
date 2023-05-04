@@ -4,6 +4,13 @@ title: "Publications"
 
 _This listing of my publications is currently being completed._
 
+# Preprints
+
+F. Müntefering, Y. G. Adhisantoso, S. Chandak, J. Ostermann, M. Hernaez, and J. Voges\
+**Genie: The First Open-Source ISO/IEC Encoder for Genomic Data**\
+Preprint (version 1) available at Research Square\
+https://doi.org/10.21203/rs.3.rs-2628031/v1
+
 # Books
 
 J. Voges\
