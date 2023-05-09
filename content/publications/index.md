@@ -30,6 +30,21 @@ J. Voges, M. Hernaez, M. Mattavelli, and J. Ostermann\
 _Proceedings of the IEEE_, vol. 109, no. 9, pp. 1607-1622, Sep. 2021\
 https://doi.org/10.1109/JPROC.2021.3082027
 
+J. Voges, T. Paridaens, F. Müntefering, L. S. Mainzer, B. Bliss, M. Yang, I. Ochoa, J. Fostier, J. Ostermann, and M. Hernaez\
+**GABAC: an arithmetic coding solution for genomic data**\
+_Bioinformatics_, vol. 36, no. 7, pp. 2275-2277, Apr. 2020\
+https://doi.org/10.1093/bioinformatics/btz922
+
+T. Laude, Y. G. Adhisantoso, J. Voges, M. Munderloh, and J. Ostermann\
+**A Comprehensive Video Codec Comparison**\
+_APSIPA Transactions on Signal and Information Processing_, vol. 8, no. 1, Nov. 2019\
+https://doi.org/10.1017/ATSIP.2019.23
+
+J. Voges, J. Ostermann, and M. Hernaez\
+**CALQ: compression of quality values of aligned sequencing data**\
+_Bioinformatics_, vol. 34, no. 10, pp. 1650-1658, May 2018\
+https://doi.org/10.1093/bioinformatics/btx737
+
 # Conference Papers
 
 J. Voges, M. Munderloh, and J. Ostermann\
