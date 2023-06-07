@@ -11,6 +11,11 @@ F. Müntefering, Y. G. Adhisantoso, S. Chandak, J. Ostermann, M. Hernaez, and J.
 Preprint (version 1) available at Research Square\
 DOI: [10.21203/rs.3.rs-2628031/v1](https://doi.org/10.21203/rs.3.rs-2628031/v1)
 
+C. Alberti, T. Paridaens, J. Voges, D. Naro, J. J. Ahmad, M. Ravasi, D. Renzi, G. Zoia, P. Ribeca, I. Ochoa, M. Mattavelli, J. Delgado, and M. Hernaez\
+**An introduction to MPEG-G, the new ISO standard for genomic information representation**\
+_bioRxiv_, Oct. 2018\
+DOI: [10.1101/426353](https://www.doi.org/10.1101/426353)
+
 # Books
 
 J. Voges\
@@ -40,10 +45,20 @@ T. Laude, Y. G. Adhisantoso, J. Voges, M. Munderloh, and J. Ostermann\
 _APSIPA Transactions on Signal and Information Processing_, vol. 8, no. 1, Nov. 2019\
 DOI: [10.1017/ATSIP.2019.23](https://doi.org/10.1017/ATSIP.2019.23)
 
+J. Voges, A. Fotouhi, J. Ostermann, and M. O. Külekci\
+**A Two-Level Scheme for Quality Score Compression**\
+_Journal of Computational Biology_, vol. 25, no. 10, pp. 1141–1151, Oct. 2018\
+DOI: [10.1089/cmb.2018.0065](https://doi.org/10.1089/cmb.2018.0065)
+
 J. Voges, J. Ostermann, and M. Hernaez\
 **CALQ: compression of quality values of aligned sequencing data**\
 _Bioinformatics_, vol. 34, no. 10, pp. 1650-1658, May 2018\
 DOI: [10.1093/bioinformatics/btx737](https://doi.org/10.1093/bioinformatics/btx737)
+
+I. Numanagić, J. K. Bonfield, F. Hach, J. Voges, J. Ostermann, C. Alberti, M. Mattavelli, and S. C. Sahinalp\
+**Comparison of high-throughput sequencing data compression tools**\
+_Nature Methods_, vol. 13, no. 12, pp. 1005–1008, Dec. 2016\
+DOI: [10.1038/nmeth.4037](https://doi.org/10.1038/nmeth.4037)
 
 # Conference Papers
 
