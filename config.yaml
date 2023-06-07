@@ -17,3 +17,6 @@ menu:
     - name: Publications
       pageRef: /publications/
       weight: 3
+    - name: Teaching
+      pageRef: /teaching/
+      weight: 4
