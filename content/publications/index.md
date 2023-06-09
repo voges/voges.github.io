@@ -62,6 +62,21 @@ DOI: [10.1038/nmeth.4037](https://doi.org/10.1038/nmeth.4037)
 
 # Conference Papers
 
+T. Laude, Y. G. Adhisantoso, J. Voges, M. Munderloh, and J. Ostermann\
+**A Comparison of JEM and AV1 with HEVC: Coding Tools, Coding Efficiency and Complexity**\
+_2018 Picture Coding Symposium (PCS)_, pp. 36–40, Jun. 2018\
+DOI: [10.1109/PCS.2018.8456291](https://doi.org/10.1109/PCS.2018.8456291)
+
+A. A. Hernandez-Lopez, J. Voges, C. Alberti, M. Mattavelli, and J. Ostermann\
+**Differential Gene Expression with Lossy Compression of Quality Scores in RNA-Seq Data**\
+_2017 Data Compression Conference (DCC)_, pp. 444–444, Apr. 2017\
+DOI: [10.1109/DCC.2017.75](https://doi.org/10.1109/DCC.2017.75)
+
+C. Alberti, N. Daniels, M. Hernaez, J. Voges, R. L. Goldfeder, A. A. Hernandez-Lopez, M. Mattavelli, and B. Berger\
+**An Evaluation Framework for Lossy Compression of Genome Sequencing Quality Values**\
+_2016 Data Compression Conference (DCC)_, pp. 221–230, Mar. 2016\
+DOI: [10.1109/DCC.2016.39](https://doi.org/10.1109/DCC.2016.39)
+
 J. Voges, M. Munderloh, and J. Ostermann\
 **Predictive Coding of Aligned Next-Generation Sequencing Data**\
 _2016 Data Compression Conference (DCC)_, pp. 241–250, Mar. 2016\
