@@ -2,8 +2,6 @@
 title: "Publications"
 ---
 
-_This listing of my publications is currently being completed._
-
 # Preprints
 
 F. Müntefering, Y. G. Adhisantoso, S. Chandak, J. Ostermann, M. Hernaez, and J. Voges\
@@ -62,10 +60,20 @@ DOI: [10.1038/nmeth.4037](https://doi.org/10.1038/nmeth.4037)
 
 # Conference Papers
 
+I. Ochoa, H. Li, F. Baumgarte, C. Hergenrother, J. Voges, and M. Hernaez\
+**AliCo: A New Efficient Representation for SAM Files**\
+_2019 Data Compression Conference (DCC)_, pp. 93–102, Mar. 2019\
+DOI: [10.1109/DCC.2019.00017](https://doi.org/10.1109/DCC.2019.00017)
+
 T. Laude, Y. G. Adhisantoso, J. Voges, M. Munderloh, and J. Ostermann\
 **A Comparison of JEM and AV1 with HEVC: Coding Tools, Coding Efficiency and Complexity**\
 _2018 Picture Coding Symposium (PCS)_, pp. 36–40, Jun. 2018\
 DOI: [10.1109/PCS.2018.8456291](https://doi.org/10.1109/PCS.2018.8456291)
+
+A. A. Hernandez-Lopez, J. Voges, C. Alberti, M. Mattavelli, and J. Ostermann\
+**Lossy Compression of Quality Scores in Differential Gene Expression: A First Assessment and Impact Analysis**\
+_2018 Data Compression Conference (DCC)_, pp. 167–176, Mar. 2018\
+DOI: [10.1109/DCC.2018.00025](https://doi.org/10.1109/DCC.2018.00025)
 
 A. A. Hernandez-Lopez, J. Voges, C. Alberti, M. Mattavelli, and J. Ostermann\
 **Differential Gene Expression with Lossy Compression of Quality Scores in RNA-Seq Data**\
