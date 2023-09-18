@@ -17,6 +17,9 @@ menu:
     - name: Publications
       pageRef: /publications/
       weight: 3
+    - name: Live
+      pageRef: /live/
+      weight: 4
     - name: Teaching
       pageRef: /teaching/
-      weight: 4
+      weight: 5

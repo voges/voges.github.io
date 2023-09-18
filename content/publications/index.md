@@ -89,9 +89,3 @@ J. Voges, M. Munderloh, and J. Ostermann\
 **Predictive Coding of Aligned Next-Generation Sequencing Data**\
 _2016 Data Compression Conference (DCC)_, pp. 241–250, Mar. 2016\
 DOI: [10.1109/DCC.2016.98](https://doi.org/10.1109/DCC.2016.98)
-
-# Miscellaneous
-
-Y. G. Adhisantoso, J. Voges, J. Ostermann\
-**PEKORA: High-Performance 3D Genome Reconstruction Using K-th Order Spearman's Rank Correlation Approximation**\
-_ISMB/ECCB 2023_, live presentation by YGA in the HiTSeq track, Jul. 2023
