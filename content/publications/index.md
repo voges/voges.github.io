@@ -60,6 +60,11 @@ DOI: [10.1038/nmeth.4037](https://doi.org/10.1038/nmeth.4037)
 
 # Conference Papers
 
+C. Rohlfing, T. Meyer, J. Schneider, and J. Voges\
+**Python Wrapper for Context-based Adaptive Binary Arithmetic Coding**\
+_2023 IEEE International Conference on Visual Communications and Image Processing (VCIP)_, "Demo" session, Dec. 2023\
+DOI: [follows]()
+
 I. Ochoa, H. Li, F. Baumgarte, C. Hergenrother, J. Voges, and M. Hernaez\
 **AliCo: A New Efficient Representation for SAM Files**\
 _2019 Data Compression Conference (DCC)_, pp. 93–102, Mar. 2019\
