@@ -6,7 +6,7 @@ title: "Publications"
 
 F. Müntefering, Y. G. Adhisantoso, S. Chandak, J. Ostermann, M. Hernaez, and J. Voges\
 **Genie: The First Open-Source ISO/IEC Encoder for Genomic Data**\
-Preprint (version 1) available at Research Square\
+_Research Square_, May 2023\
 DOI: [10.21203/rs.3.rs-2628031/v1](https://doi.org/10.21203/rs.3.rs-2628031/v1)
 
 C. Alberti, T. Paridaens, J. Voges, D. Naro, J. J. Ahmad, M. Ravasi, D. Renzi, G. Zoia, P. Ribeca, I. Ochoa, M. Mattavelli, J. Delgado, and M. Hernaez\
