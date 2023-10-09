@@ -41,12 +41,14 @@ DOI: [10.1093/bioinformatics/btz922](https://doi.org/10.1093/bioinformatics/btz9
 T. Laude, Y. G. Adhisantoso, J. Voges, M. Munderloh, and J. Ostermann\
 **A Comprehensive Video Codec Comparison**\
 _APSIPA Transactions on Signal and Information Processing_, vol. 8, no. 1, Nov. 2019\
-DOI: [10.1017/ATSIP.2019.23](https://doi.org/10.1017/ATSIP.2019.23)
+DOI: [10.1017/ATSIP.2019.23](https://doi.org/10.1017/ATSIP.2019.23)\
+Resources: [main paper (PDF)](/download/publications/Lau+19_Main.pdf)
 
 J. Voges, A. Fotouhi, J. Ostermann, and M. O. Külekci\
 **A Two-Level Scheme for Quality Score Compression**\
 _Journal of Computational Biology_, vol. 25, no. 10, pp. 1141–1151, Oct. 2018\
-DOI: [10.1089/cmb.2018.0065](https://doi.org/10.1089/cmb.2018.0065)
+DOI: [10.1089/cmb.2018.0065](https://doi.org/10.1089/cmb.2018.0065)\
+Resources: [main paper (PDF)](/download/publications/VFOK18_Main.pdf)
 
 J. Voges, J. Ostermann, and M. Hernaez\
 **CALQ: compression of quality values of aligned sequencing data**\
@@ -62,8 +64,8 @@ DOI: [10.1038/nmeth.4037](https://doi.org/10.1038/nmeth.4037)
 
 C. Rohlfing, T. Meyer, J. Schneider, and J. Voges\
 **Python Wrapper for Context-based Adaptive Binary Arithmetic Coding**\
-_2023 IEEE International Conference on Visual Communications and Image Processing (VCIP)_, "Demo" session, Dec. 2023\
-DOI: [follows]()
+_2023 IEEE International Conference on Visual Communications and Image Processing (VCIP)_, Dec. 2023\
+Resources: [link](https://ient-common.pages.rwth-aachen.de/publications/pdf/RoMeScVo23.pdf), [main paper (PDF)](/download/publications/RMSV23_Main.pdf)
 
 I. Ochoa, H. Li, F. Baumgarte, C. Hergenrother, J. Voges, and M. Hernaez\
 **AliCo: A New Efficient Representation for SAM Files**\
