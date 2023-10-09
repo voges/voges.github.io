@@ -23,7 +23,9 @@ Presented by Fabian Müntefering (**_Best Presentation Award_**)\
 _AICPM 2023_\
 15 September 2023, Hannover (DE)
 
+Y. G. Adhisantoso, J. Voges, and J. Ostermann\
 **PEKORA: High-Performance 3D Genome Reconstruction Using K-th Order Spearman's Rank Correlation Approximation**\
 Presented by Yeremia Gunawan Adhisantoso\
 _ISMB/ECCB 2023_ (HiTSeq track)\
-25 July 2023, Lyon (FR)
+25 July 2023, Lyon (FR)\
+Resources: [abstract (PDF)](/download/publications/AVO23_Abstract.pdf)
