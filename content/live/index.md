@@ -18,10 +18,12 @@ _IEEE Data Science Workshop (DSW) 2019_\
 
 # Presentations by Genomic Data Science Group Members
 
+F. Müntefering, J. Ostermann, and J. Voges\
 **BACON: Bacterial Clone Recognition from Metagenomic Sequencing Data**\
 Presented by Fabian Müntefering (**_Best Presentation Award_**)\
 _AICPM 2023_\
-15 September 2023, Hannover (DE)
+15 September 2023, Hannover (DE)\
+Resources: [abstract (PDF)](/download/publications/MOV23_Abstract.pdf)
 
 Y. G. Adhisantoso, J. Voges, and J. Ostermann\
 **PEKORA: High-Performance 3D Genome Reconstruction Using K-th Order Spearman's Rank Correlation Approximation**\
