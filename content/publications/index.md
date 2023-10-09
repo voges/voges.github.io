@@ -19,7 +19,7 @@ DOI: [10.1101/426353](https://www.doi.org/10.1101/426353)
 J. Voges\
 **Compression of DNA Sequencing Data**\
 VDI Verlag, 2022\
-DOI: [10.51202/9783186878106](https://www.doi.org/10.51202/9783186878106)
+DOI: [10.51202/9783186878106-I](https://doi.org/10.51202/9783186878106-I)
 
 # Journal Articles
 
