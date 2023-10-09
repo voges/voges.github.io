@@ -20,5 +20,4 @@ You can also find me here:
 [Google Scholar](https://scholar.google.de/citations?user=Ld5Jrc4AAAAJ) |
 [LinkedIn](https://www.linkedin.com/in/jan-voges/) |
 [ORCID](https://orcid.org/0000-0002-6080-660X) |
-[TNT](https://www.tnt.uni-hannover.de/staff/voges/) |
-[Zotero](https://www.zotero.org/jan-voges)
+[TNT](https://www.tnt.uni-hannover.de/staff/voges/)
