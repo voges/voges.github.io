@@ -84,7 +84,7 @@ DOI: [10.1109/DCC.2018.00025](https://doi.org/10.1109/DCC.2018.00025)
 
 A. A. Hernandez-Lopez, J. Voges, C. Alberti, M. Mattavelli, and J. Ostermann\
 **Differential Gene Expression with Lossy Compression of Quality Scores in RNA-Seq Data**\
-_2017 Data Compression Conference (DCC)_, pp. 444–444, Apr. 2017\
+_2017 Data Compression Conference (DCC)_, p. 444, Apr. 2017\
 DOI: [10.1109/DCC.2017.75](https://doi.org/10.1109/DCC.2017.75)
 
 C. Alberti, N. Daniels, M. Hernaez, J. Voges, R. L. Goldfeder, A. A. Hernandez-Lopez, M. Mattavelli, and B. Berger\
