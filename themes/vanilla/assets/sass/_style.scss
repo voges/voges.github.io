@@ -1,6 +1,8 @@
 @import "colors";
+@import "fonts";
 
 body {
+    font-family: $font-stack;
     line-height: 1.5;
     margin: auto;
     max-width: 800px;
