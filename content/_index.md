@@ -6,15 +6,13 @@ title: "Home"
 
 # Dr. Jan Voges
 
-Passionate R&D expert with a special focus on information theory, data compression, machine learning and bioinformatics.
+Passionate R&D expert with a special focus on machine learning, bioinformatics and computational biology.
 
 Pioneer in compression and standardization of genomics data.
 
-Leader of the Genomic Data Science group at the [Institute of Information Processing](https://www.tnt.uni-hannover.de), [Leibniz University Hannover](https://www.uni-hannover.de).
+Leader of the Genomic Data Science group at Institute of Information Processing&nbsp;/&nbsp;L3S at Leibniz University Hannover.
 
 Specialties: international standardization, proposal writing, project management, IP generation, software engineering.
-
-You can also find me here:
 
 [GitHub](https://github.com/voges) |
 [Google Scholar](https://scholar.google.de/citations?user=Ld5Jrc4AAAAJ) |
