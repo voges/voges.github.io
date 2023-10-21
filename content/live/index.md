@@ -4,6 +4,10 @@ title: "Live"
 
 # Invited Talks
 
+**Genomic Data Science: Pioneering the Future of Personalized Health Ecosystems**\
+_50 Jahre TNT&nbsp;&ndash;&nbsp;Kolloquium Anwendungen der Theoretischen Nachrichtentechnik und Informationsverarbeitung_\
+13 October 2023, Hannover (DE)
+
 **Erfahrungen aus der Praxis: Das EIC-Pathfinder-Projekt PEARL-DNA zur DNA-basierten Datenspeicherung**\
 _Enterprise Europe Network (EEN) Niedersachsen: European Innovators&nbsp;&ndash;&nbsp;Forschungsförderung für internationale Projekte_\
 28 September 2023, virtual
