@@ -21,6 +21,18 @@ J. Voges\
 VDI Verlag, 2022\
 DOI: [10.51202/9783186878106-I](https://doi.org/10.51202/9783186878106-I)
 
+# Patents
+
+_Others pending_
+
+J. Voges and J. Ostermann\
+**Method for encoding and decoding of quality values of a data structure**\
+[US10938415B2](https://patents.google.com/patent/US10938415B2/)
+
+J. Voges and J. Ostermann\
+**Method for encoding and decoding of quality values of a data structure**\
+[EP3652862B1](https://patents.google.com/patent/EP3652862B1/)
+
 # Journal Articles
 
 Y. G. Adhisantoso, J. Voges, C. Rohlfing, V. Tunev, J.-R. Ohm, and J. Ostermann\
