@@ -4,9 +4,8 @@ title: "Teaching"
 
 # Leibniz University Hannover Courses
 
-* [Applied Machine Learning in Genomic Data Science](https://www.tnt.uni-hannover.de/edu/vorlesungen/AMLG/) (winter semester 2023/24)
+[Applied Machine Learning in Genomic Data Science](https://www.tnt.uni-hannover.de/edu/vorlesungen/AMLG/) (lecturer, winter semester 2023/24)
 
-# Leibniz University Hannover Courses (Teaching Assistant)
+[Grundzüge der Informatik und Programmierung](https://www.tnt.uni-hannover.de/edu/vorlesungen/GIP/) (teaching assistant, 2017&ndash;2022)
 
-* [Grundzüge der Informatik und Programmierung](https://www.tnt.uni-hannover.de/edu/vorlesungen/GIP/) (2017&ndash;2022)
-* [Kanalcodierung](https://www.tnt.uni-hannover.de/edu/vorlesungen/KanalCod/) (2017&ndash;2019)
+[Kanalcodierung](https://www.tnt.uni-hannover.de/edu/vorlesungen/KanalCod/) (teaching assistant, 2017&ndash;2019)
