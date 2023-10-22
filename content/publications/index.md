@@ -109,6 +109,20 @@ J. Voges, M. Munderloh, and J. Ostermann\
 _2016 Data Compression Conference (DCC)_, pp. 241–250, Mar. 2016\
 DOI: [10.1109/DCC.2016.98](https://doi.org/10.1109/DCC.2016.98)
 
+# Conference Talks
+
+F. Müntefering, J. Ostermann, and J. Voges\
+**BACON: Bacterial Clone Recognition from Metagenomic Sequencing Data**\
+_Presented by FM_ (**_Best Presentation Award_**)\
+_AICPM 2023_, Sep. 2023\
+Resources: [abstract (PDF)](/download/publications/MOV23_Abstract.pdf)
+
+Y. G. Adhisantoso, J. Voges, and J. Ostermann\
+**PEKORA: High-Performance 3D Genome Reconstruction Using K-th Order Spearman's Rank Correlation Approximation**\
+_Presented by YGA_\
+_ISMB/ECCB 2023_ (HiTSeq track), Jul. 2023\
+Resources: [abstract (PDF)](/download/publications/AVO23_Abstract.pdf)
+
 # Posters
 
 T. Paridaens, J. Voges, M. Hernaez, J. Fostier, and J. Ostermann\
