@@ -20,6 +20,3 @@ menu:
     - name: Live
       pageRef: /live/
       weight: 4
-    - name: Teaching
-      pageRef: /teaching/
-      weight: 5
