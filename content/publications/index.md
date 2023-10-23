@@ -132,7 +132,7 @@ DOI: [10.7490/f1000research.1117346.1](https://doi.org/10.7490/f1000research.111
 
 J. Voges and J. Ostermann\
 **MPEG-G: The Emerging Standard for Genomic Data**\
-_25th German Conference on Bioinformatics (GCB)_, Sep. 2017\
+_GCB 2017_, Sep. 2017\
 DOI: [10.7287/peerj.preprints.3268v1](https://doi.org/10.7287/peerj.preprints.3268v1)\
 Resources: [poster (PDF)](/download/publications/VO17_Poster.pdf)
 

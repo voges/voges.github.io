@@ -22,7 +22,7 @@ _IEEE Data Science Workshop (DSW) 2019_\
 
 # Teaching
 
-## Leibniz University Hannover Courses
+## Leibniz University Hannover
 
 [Applied Machine Learning in Genomic Data Science](https://www.tnt.uni-hannover.de/edu/vorlesungen/AMLG/) (lecturer, winter semester 2023/24)
 
