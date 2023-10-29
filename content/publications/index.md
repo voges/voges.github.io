@@ -2,40 +2,12 @@
 title: "Publications"
 ---
 
-# Preprints
-
-F. Müntefering, Y. G. Adhisantoso, S. Chandak, J. Ostermann, M. Hernaez, and J. Voges\
-**Genie: The First Open-Source ISO/IEC Encoder for Genomic Data**\
-_Research Square_, May 2023\
-DOI: [10.21203/rs.3.rs-2628031/v1](https://doi.org/10.21203/rs.3.rs-2628031/v1)
-
-C. Alberti, T. Paridaens, J. Voges, D. Naro, J. J. Ahmad, M. Ravasi, D. Renzi, G. Zoia, P. Ribeca, I. Ochoa, M. Mattavelli, J. Delgado, and M. Hernaez\
-**An introduction to MPEG-G, the new ISO standard for genomic information representation**\
-_bioRxiv_, Oct. 2018\
-DOI: [10.1101/426353](https://www.doi.org/10.1101/426353)
-
 # Books
 
 J. Voges\
 **Compression of DNA Sequencing Data**\
 VDI Verlag, 2022\
 DOI: [10.51202/9783186878106-I](https://doi.org/10.51202/9783186878106-I)
-
-# Patents
-
-_Others pending_
-
-M. Munderloh, J. Voges and J. Ostermann\
-**Method for compressing genomic data**\
-[EP3311318](https://patents.google.com/patent/EP3311318B1/), Sep. 2023
-
-J. Voges and J. Ostermann\
-**Method for encoding and decoding of quality values of a data structure**\
-[EP3652862](https://patents.google.com/patent/EP3652862B1/), Jun. 2022
-
-J. Voges and J. Ostermann\
-**Method for encoding and decoding of quality values of a data structure**\
-[US10938415](https://patents.google.com/patent/US10938415B2/), Mar. 2021
 
 # Journal Articles
 
@@ -76,6 +48,22 @@ I. Numanagić, J. K. Bonfield, F. Hach, J. Voges, J. Ostermann, C. Alberti, M. M
 _Nature Methods_, vol. 13, no. 12, pp. 1005–1008, Dec. 2016\
 DOI: [10.1038/nmeth.4037](https://doi.org/10.1038/nmeth.4037)
 
+# Patents
+
+_Others pending_
+
+M. Munderloh, J. Voges and J. Ostermann\
+**Method for compressing genomic data**\
+[EP3311318](https://patents.google.com/patent/EP3311318B1/), Sep. 2023
+
+J. Voges and J. Ostermann\
+**Method for encoding and decoding of quality values of a data structure**\
+[EP3652862](https://patents.google.com/patent/EP3652862B1/), Jun. 2022
+
+J. Voges and J. Ostermann\
+**Method for encoding and decoding of quality values of a data structure**\
+[US10938415](https://patents.google.com/patent/US10938415B2/), Mar. 2021
+
 # Conference Papers
 
 C. Rohlfing, T. Meyer, J. Schneider, and J. Voges\
@@ -112,6 +100,18 @@ J. Voges, M. Munderloh, and J. Ostermann\
 **Predictive Coding of Aligned Next-Generation Sequencing Data**\
 _2016 Data Compression Conference (DCC)_, pp. 241–250, Mar. 2016\
 DOI: [10.1109/DCC.2016.98](https://doi.org/10.1109/DCC.2016.98)
+
+# Preprints
+
+F. Müntefering, Y. G. Adhisantoso, S. Chandak, J. Ostermann, M. Hernaez, and J. Voges\
+**Genie: The First Open-Source ISO/IEC Encoder for Genomic Data**\
+_Research Square_, May 2023\
+DOI: [10.21203/rs.3.rs-2628031/v1](https://doi.org/10.21203/rs.3.rs-2628031/v1)
+
+C. Alberti, T. Paridaens, J. Voges, D. Naro, J. J. Ahmad, M. Ravasi, D. Renzi, G. Zoia, P. Ribeca, I. Ochoa, M. Mattavelli, J. Delgado, and M. Hernaez\
+**An introduction to MPEG-G, the new ISO standard for genomic information representation**\
+_bioRxiv_, Oct. 2018\
+DOI: [10.1101/426353](https://www.doi.org/10.1101/426353)
 
 # Conference Talks
 
