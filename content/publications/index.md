@@ -25,13 +25,17 @@ DOI: [10.51202/9783186878106-I](https://doi.org/10.51202/9783186878106-I)
 
 _Others pending_
 
-J. Voges and J. Ostermann\
-**Method for encoding and decoding of quality values of a data structure**\
-[US10938415B2](https://patents.google.com/patent/US10938415B2/)
+M. Munderloh, J. Voges and J. Ostermann\
+**Method for compressing genomic data**\
+[EP3311318](https://patents.google.com/patent/EP3311318B1/), Sep. 2023
 
 J. Voges and J. Ostermann\
 **Method for encoding and decoding of quality values of a data structure**\
-[EP3652862B1](https://patents.google.com/patent/EP3652862B1/)
+[EP3652862](https://patents.google.com/patent/EP3652862B1/), Jun. 2022
+
+J. Voges and J. Ostermann\
+**Method for encoding and decoding of quality values of a data structure**\
+[US10938415](https://patents.google.com/patent/US10938415B2/), Mar. 2021
 
 # Journal Articles
 
