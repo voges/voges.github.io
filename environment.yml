@@ -1,0 +1,5 @@
+name: voges.github.io
+channels:
+  - defaults
+dependencies:
+  - shellcheck=0.7.2
