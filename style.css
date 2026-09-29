@@ -1,0 +1,100 @@
+:root {
+	color-scheme: light;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+	font-synthesis: none;
+	-webkit-font-smoothing: antialiased;
+	--background: #f4f6f5;
+	--foreground: #18221f;
+	--accent: #176b58;
+	--rule: #d5ded9;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	min-height: 100vh;
+	min-height: 100svh;
+	margin: 0;
+	padding: 2rem;
+	background: var(--background);
+	color: var(--foreground);
+	display: grid;
+	place-items: center;
+}
+
+main {
+	width: min(100%, 28rem);
+}
+
+.logo {
+	display: block;
+	width: 6rem;
+	height: 6rem;
+	margin-bottom: 1.5rem;
+}
+
+h1 {
+	margin: 0 0 2rem;
+	font-size: 2.5rem;
+	font-weight: 600;
+	line-height: 1.1;
+}
+
+p {
+	margin: 0;
+	font-size: 1.125rem;
+}
+
+a {
+	color: var(--accent);
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	border-top: 1px solid var(--rule);
+	list-style: none;
+}
+
+nav li {
+	border-bottom: 1px solid var(--rule);
+}
+
+nav a {
+	display: block;
+	padding: 1rem 0;
+	color: var(--foreground);
+	font-size: 1.125rem;
+	text-decoration: none;
+	transition: color 160ms ease;
+}
+
+nav a:hover,
+nav a:focus-visible {
+	color: var(--accent);
+}
+
+nav a:focus-visible {
+	outline: 2px solid var(--accent);
+	outline-offset: 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+	*, *::before, *::after {
+		transition-duration: 0.01ms !important;
+		animation-duration: 0.01ms !important;
+		animation-iteration-count: 1 !important;
+	}
+}
+
+@media (max-width: 480px) {
+	body {
+		padding: 1.5rem;
+	}
+
+	h1 {
+		font-size: 2rem;
+	}
+}
