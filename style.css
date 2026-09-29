@@ -1,6 +1,6 @@
 :root {
 	color-scheme: light;
-	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+	font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
 	font-synthesis: none;
 	-webkit-font-smoothing: antialiased;
 	--background: #f4f6f5;
@@ -20,6 +20,7 @@ body {
 	padding: 2rem;
 	background: var(--background);
 	color: var(--foreground);
+	font-size: 1.125rem;
 	display: grid;
 	place-items: center;
 }
@@ -44,7 +45,6 @@ h1 {
 
 p {
 	margin: 0;
-	font-size: 1.125rem;
 }
 
 a {
@@ -66,9 +66,7 @@ nav a {
 	display: block;
 	padding: 1rem 0;
 	color: var(--foreground);
-	font-size: 1.125rem;
 	text-decoration: none;
-	transition: color 160ms ease;
 }
 
 nav a:hover,
@@ -81,11 +79,9 @@ nav a:focus-visible {
 	outline-offset: 4px;
 }
 
-@media (prefers-reduced-motion: reduce) {
-	*, *::before, *::after {
-		transition-duration: 0.01ms !important;
-		animation-duration: 0.01ms !important;
-		animation-iteration-count: 1 !important;
+@media (prefers-reduced-motion: no-preference) {
+	nav a {
+		transition: color 160ms ease;
 	}
 }
 
